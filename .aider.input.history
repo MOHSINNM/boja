@@ -1,0 +1,7 @@
+
+# 2024-06-24 00:50:43.950061
++hi
+
+# 2024-06-24 00:51:50.535939
++Unexpected error: litellm.NotFoundError: OpenAIException - Error code: 404 - {'error': {'message': 'The model `gpt-4o` does not exist or you do not have access
++to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
